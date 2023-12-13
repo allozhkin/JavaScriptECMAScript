@@ -9,5 +9,7 @@
 Пример:
 
 const rootElement = document.getElementById('root');
+
 const targetElement = findElementByClass(rootElement, 'my-class');
+
 console.log(targetElement);
